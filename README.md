@@ -1,2 +1,2 @@
 # super-octo-guacamole
-First repo 
+First repo.
